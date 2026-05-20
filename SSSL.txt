@@ -4,8 +4,7 @@ Based on the Apache 1.1 and 2.0 Licenses.
 
 ====================================================================
 
-You are permitted to use the work in source and binary forms, with or without
-modification, so long as the conditions are met:
+You are permitted to use the work in source and binary forms, with or without modification, so long as the conditions are met:
 
 1. Redistributions of the work must retain either this license or a compatible one.
 
