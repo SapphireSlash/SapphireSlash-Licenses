@@ -10,3 +10,5 @@ Licenses Page: (https://sapphireslash.nekoweb.org/licenses)
 Releases marked "alpha" are releases **before** the final release that have enough significant changes to where the version number changes.
 
 Releases marked "beta" are releases **after** the final release but don't have enough significant changes from the original version so the version number doesn't change.
+
+In simpler terms, alphas are major updates/changes, and betas are minor updates/changes.
