@@ -2,7 +2,7 @@ SapphireSlash Software License v1.0
 
 Based on the Apache 1.1 and 2.0 Licenses.
 
-Copyright and Redistribution
+====================================================================
 
 You are permitted to use the work in source and binary forms, with or without
 modification, so long as the conditions are met:
@@ -18,8 +18,6 @@ modification, so long as the conditions are met:
     "This product/project is licensed under the SapphireSlash License v.1.0."
     Alternately, this acknowledgment may appear in the software itself,
     if and wherever such third-party acknowledgments normally appear.
-
-Patent Rights
 
 You are permitted to patent the work to use, offer to sell, sell, import, and otherwise transfer it; however, the patent license(s) would be terminated by the following paragraph:
 
