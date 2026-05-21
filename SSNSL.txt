@@ -1,4 +1,4 @@
-SapphireSlash Non-Software License 1.0
+SapphireSlash Non-Software License 1.1
 
 By exercising the Licensed Rights (defined below), You accept and agree
 to be bound by the terms and conditions of this SapphireSlash Non-Software License ("Public
@@ -331,10 +331,10 @@ Section 8 -- Interpretation.
 
 ====================================================================
 
-How to apply the SapphireSlash Software License.
+How to apply the SapphireSlash Non-Software License.
 
 To apply, put this following notice into a NOTICE file.
-Make sure to put the year and name of the copyright holder(s) (Remove the brackets).
+Make sure to put the copyright year and name of the copyright holder(s) (Remove the brackets).
 
 ====================================================================
 
