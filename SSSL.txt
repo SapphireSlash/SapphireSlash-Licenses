@@ -6,7 +6,7 @@ Based on the Apache 1.1 and 2.0 Licenses.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
-1. Redistributions of the work must retain either this license or a compatible one.
+1. Redistributions of source code must retain either this license, the licenses boilerplate or a compatible license.
 
 2. Redistributions in binary form must reproduce either this license or a compatible one in the documentation and/or other materials provided with the distribution.
 
@@ -23,7 +23,7 @@ as of the date such litigation is filed.
 
 How to apply the SapphireSlash Software License.
 
-To apply, put this following notice into a NOTICE file.
+If you chose not to put the entire S.S.S.L license into your work but still want it licensed under said license, you have to put the following notice into a NOTICE file.
 Make sure to put the copyright year and name of the copyright holder(s) (Remove the brackets).
 
 ====================================================================
