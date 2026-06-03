@@ -13,7 +13,7 @@ the S.S.S.L boilerplate or a compatible license.
 the S.S.S.L boilerplate or a compatible license in the documentation
 and/or other materials provided with the distribution.
 
-You are permitted to patent the work to use, offer to sell, sell, import, and otherwise transfer it; however, the patent license(s) would be terminated by the following paragraph:
+Subject to the terms and conditions of this license, this license grants you the ability to patent the work to use, offer to sell, sell, import, and otherwise transfer it; however, the patent license(s) would be terminated by the following paragraph:
 
 If you institute patent litigation against any entity (including a
 cross-claim or counterclaim in a lawsuit) alleging that the work
@@ -28,7 +28,7 @@ How to apply the SapphireSlash Software License.
 
 If you choose not to put the entire S.S.S.L license into your work
 but still want it licensed under said license, you have to put
-the following notice into a NOTICE file.
+the following notice into a NOTICE or COPYING file.
 
 Make sure to put the copyright year and name of the copyright holder(s)
 (Remove the brackets).
