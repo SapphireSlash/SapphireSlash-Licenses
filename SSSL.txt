@@ -4,9 +4,12 @@ SapphireSlash Software License v.1.2
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
-1. Redistributions of source code must retain either this license, the licenses boilerplate or a compatible license.
+1. Redistributions of source code must retain either this license,
+the S.S.S.L boilerplate or a compatible license.
 
-2. Redistributions in binary form must reproduce either this license or a compatible one in the documentation and/or other materials provided with the distribution.
+2. Redistributions in binary form must reproduce either this license,
+the S.S.S.L boilerplate or a compatible license in the documentation
+and/or other materials provided with the distribution.
 
 You are permitted to patent the work to use, offer to sell, sell, import, and otherwise transfer it; however, the patent license(s) would be terminated by the following paragraph:
 
