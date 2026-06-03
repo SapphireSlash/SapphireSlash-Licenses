@@ -13,6 +13,8 @@ the S.S.S.L boilerplate or a compatible license.
 the S.S.S.L boilerplate or a compatible license in the documentation
 and/or other materials provided with the distribution.
 
+====================================================================
+
 Subject to the terms and conditions of this license, this license
 grants to those receiving rights under this license a perpetual,
 worldwide, non-exclusive, no-charge, royalty-free, irrevocable
