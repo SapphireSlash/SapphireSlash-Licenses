@@ -24,7 +24,10 @@ as of the date such litigation is filed.
 
 How to apply the SapphireSlash Software License.
 
-If you chose not to put the entire S.S.S.L license into your work but still want it licensed under said license, you have to put the following notice into a NOTICE file.
+If you chose not to put the entire S.S.S.L license into your work
+but still want it licensed under said license, you have to put
+the following notice into a NOTICE file.
+
 Make sure to put the copyright year and name of the copyright holder(s) (Remove the brackets).
 
 ====================================================================
