@@ -1,6 +1,6 @@
 SapphireSlash Software License v.1.2
 
-Copyright (c) [year] [name of copyright holder(s)]
+Copyright © [year] [name of copyright holder(s)]
 
 Redistribution and use in source and binary forms,
 with or without modification, are permitted provided
