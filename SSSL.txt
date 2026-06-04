@@ -1,6 +1,6 @@
 SapphireSlash Software License v.1.2
 
-====================================================================
+Copyright [year] [name of copyright holder(s)]
 
 Redistribution and use in source and binary forms,
 with or without modification, are permitted provided
@@ -43,7 +43,7 @@ Make sure to put the copyright year and name of the copyright holder(s)
 
 ====================================================================
 
-Copyright [yyyy] [name of copyright holder(s)]
+Copyright [year] [name of copyright holder(s)]
 
 Licensed under the SapphireSlash Software License v.1.2;
 you may not use the work except in compliance with the license.
